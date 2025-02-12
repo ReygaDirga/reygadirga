@@ -2,8 +2,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
 ###
 
 <p align="left">I'm Rio Dwi Oktavianto from Indonesia<br><br>- 📚 I'm currently learning framework<br>- ⚡ In my free time I play games and sometimes make some projects.</p>
@@ -67,7 +65,5 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
