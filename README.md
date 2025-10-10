@@ -90,7 +90,7 @@
 
 ###
 
-<h3 align="left">📈 Github Statistic</h3>
+<h2 align="left">📈 Github Statistic</h3>
 
 ###
 
