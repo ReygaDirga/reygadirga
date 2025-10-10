@@ -63,7 +63,7 @@
 ###
 
 <div align="center">
-  <img height="600" src="https://github.com/ReygaDirga/reygadirga/blob/main/sertifikat.png?raw=true"  />
+  <img height="650" src="https://github.com/ReygaDirga/reygadirga/blob/main/sertifikat.png?raw=true"  />
 </div>
 
 ###
