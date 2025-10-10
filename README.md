@@ -63,6 +63,12 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://github.com/ReygaDirga/reygadirga/blob/main/sertifikat.png?raw=true"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReygaDirga&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
