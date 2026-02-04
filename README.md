@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Rio Dwi Oktavianto from Indonesia<br><br>- 📚 I'm currently learning framework<br>- ⚡ In my free time I play games and sometimes make some projects.</p>
+<p align="left">I'm Rio Dwi Oktavianto from Indonesia<br><br>- 📚 I'm currently learning Angular<br>- ⚡ In my free time I play games and sometimes make some projects.</p>
 
 ###
 
